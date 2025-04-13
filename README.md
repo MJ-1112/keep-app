@@ -11,6 +11,7 @@ Welcome to Keep app, a sleek and simple note-taking app built with React.js. Whe
 🧠 Powered by React Hooks and localStorage
 
 🖼️ Preview
+https://keep-app-rho.vercel.app/
 
 
 🛠️ Built With
@@ -28,8 +29,8 @@ Clone the repo and run it locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/notesy.git
-cd notesy
+git clone https://github.com/MJ-1112/keep-app.git
+cd keep-app
 npm install
 npm start
 App will be running on: http://localhost:3000
